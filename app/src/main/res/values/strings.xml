@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mp3Player1</string>
+    <string name="title_activity_music_play">MusicPlay</string>
+</resources>
